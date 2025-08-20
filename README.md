@@ -3,7 +3,7 @@
 🎓 Final Year B.E. CSE (Cyber Security) student  
 🔐 Passionate about Cybersecurity, Ethical Hacking, and Digital Defense  
 💻 Currently building practical Python security tools  
-📚 Lifelong learner exploring AI, Business, and Startups  
+📚 Lifelong learner exploring AI, Business, and Startups 
 
 ---
 
