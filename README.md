@@ -8,7 +8,7 @@
 ---
 
 ## 🛠 Skills & Tools
-- Programming: Python, C, Java  
+- Programming: Python, C, Java 
 - Cybersecurity Tools: Wireshark, Nmap, Burp Suite  
 - Development Tools: Git, GitHub, Cursor IDE  
 
