@@ -37,7 +37,7 @@
 
 ## 🎯 Vision & Goals
 - 🏆 Win cybersecurity hackathons with innovative solutions  
-- 💼 Land top IT placements (Avasoft & beyond)  
+- 💼 Land top IT placements   
 - 💡 Build a faceless AI-powered business that works while I sleep  
 - 🌍 Contribute to making the digital world safer for everyone  
 
